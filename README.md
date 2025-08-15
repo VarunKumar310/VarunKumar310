@@ -60,18 +60,10 @@ As a recent Computer Science graduate, I'm passionate about solving real-world p
 ## 🧩 Competitive Programming
 
 ### 🔗 [LeetCode Profile](https://leetcode.com/u/G_VarunKumar/)
-- 🏅 **Contest Rating**: 1761  
-- 🌍 **Global Rank**: 66,021 / 728,146  
-- 🔝 **Top**: 9.32%  
-- ✅ **Solved**: 168 problems  
-  - 🟢 Easy: 88 | 🟡 Medium: 71 | 🔴 Hard: 9  
-- 🧩 **Streaks**: 50 Days Badge | Max: 3 days  
-- 📊 **Active Submissions**: 124 in the past year
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/G_VarunKumar?theme=dark&ext=activity" alt="LeetCode Stats" />
-</p>
-
+- 🏅 **Contest Rating**: 1808  
+- 🌍 **Global Rank**: 51,901/737,635  
+- 🔝 **Top**: 7.25%  
+- 🧩 **Streaks**: 50 Days Badge | Max: 3 days 
 ---
 
 ### 🔗 [Codeforces Profile](https://codeforces.com/profile/varunkumar310)
@@ -85,9 +77,7 @@ As a recent Computer Science graduate, I'm passionate about solving real-world p
 
 ### 🔗 [CodeChef Profile](https://www.codechef.com/users/varun310)
 - 👤 **Username**: `varun310`  
-- 📈 **Rating**: 1461 (Div 3)  
-- 🌐 **Global Rank**: 33,265  
-- 🇮🇳 **Country Rank**: 30,317  
+- 📈 **Rating**: 1511 (Div 3)   
 - 🏅 **Badges**:  
   - 🥈 Silver Badge: Solved 250+ problems  
   - 🥈 Silver Badge: Participated in 25 contests
