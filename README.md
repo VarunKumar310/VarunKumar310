@@ -1,32 +1,29 @@
-<h1 align="center">Hello, I'm G Varun Kumar! 👋</h1>
+<h1 align="center">
+  Hello, I'm G Varun Kumar!
+  <img src="assets/wave.gif" alt="waving hand" width="28" height="28" style="vertical-align: middle;" />
+</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="mailto:varunkumargakkula@gmail.com">
+  <a href="mailto:varunkumargakkula@gmail.com" title="Email me">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/varun-kumar-gakkula">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/varun-kumar-gakkula" title="Connect on LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
- 
-  <a href="https://varunkumar310.github.io/My_Portfolio/">
+  <a href="https://varunkumar310.github.io/My_Portfolio/" title="View my Portfolio">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/G_VarunKumar/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-
 As a recent Computer Science graduate, I'm passionate about solving real-world problems using technology. I specialize in full-stack development and AI-powered projects and constantly push myself through competitive programming and open-source work.
 
 ---
 
 ### 🧠 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -41,7 +38,6 @@ As a recent Computer Science graduate, I'm passionate about solving real-world p
 ---
 
 ### 📌 Projects
-
 - 🎭 [Face Mask Detection](https://github.com/VarunKumar310/Face-Mask-Detection) – Multi-layer CNN model with 25% false-positive reduction for real-time monitoring.
 - 📰 [Fake News Detection](https://github.com/VarunKumar310/Fake_News_Detection) – Flask web app using Naive Bayes, 85%+ accuracy.
 - 🎓 [Smart Attendance System](https://github.com/VarunKumar310/Smart_Attendance) – Real-time face recognition with daily report generation.
@@ -50,43 +46,35 @@ As a recent Computer Science graduate, I'm passionate about solving real-world p
 ---
 
 ### 📊 GitHub Stats
-
 | ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunKumar310&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunKumar310&layout=compact&theme=radical) |
 |---|---|
 
 ---
 
-### 🧩 Competitive Programming
 ## 🧩 Competitive Programming
 
-### 🔗 [LeetCode Profile](https://leetcode.com/u/G_VarunKumar/)
+### 🔗 <a href="https://leetcode.com/u/G_VarunKumar/" title="My LeetCode Profile">LeetCode</a>
 - 🏅 **Contest Rating**: 1808  
 - 🌍 **Global Rank**: 51,901/737,635  
 - 🔝 **Top**: 7.25%  
 - 🧩 **Streaks**: 50 Days Badge | Max: 3 days 
----
 
-### 🔗 [Codeforces Profile](https://codeforces.com/profile/varunkumar310)
+### 🔗 <a href="https://codeforces.com/profile/varunkumar310" title="My Codeforces Profile">Codeforces</a>
 - 👤 **Username**: `varunkumar310`  
 - 📈 **Rating**: 1049  
 - 🏷️ **Rank**: Newbie  
 - ⏳ **Joined**: 19 months ago  
 
-
----
-
-### 🔗 [CodeChef Profile](https://www.codechef.com/users/varun310)
+### 🔗 <a href="https://www.codechef.com/users/varun310" title="My CodeChef Profile">CodeChef</a>
 - 👤 **Username**: `varun310`  
 - 📈 **Rating**: 1511 (Div 3)   
 - 🏅 **Badges**:  
   - 🥈 Silver Badge: Solved 250+ problems  
   - 🥈 Silver Badge: Participated in 25 contests
 
-
 ---
 
 ### 🧾 Certifications & Achievements
-
 - ✔️ Python, Data Science & Angular Web Development (Infosys Springboard)
 - 🧠 Solved:
   - `160+` LeetCode problems
@@ -95,9 +83,5 @@ As a recent Computer Science graduate, I'm passionate about solving real-world p
 
 ---
 
-### 🤝 Let's Connect
-
-I'm open to internships, freelance opportunities, collaborations, and contributing to open source. Let’s build together and push the limits of innovation!
-
----
-
+### 🤝 Let’s Connect
+I’m open to internships, freelance opportunities, collaborations, and contributing to open source. Let’s build together and push the limits of innovation!
